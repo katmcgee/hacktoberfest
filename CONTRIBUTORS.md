@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [katmcgee](https://github.com/katmcgee)
+- Place: San Francisco Bay Area, CA
+- Bio: New Grad in CS
+- Github: [katmcgee](https://github.com/katmcgee)
